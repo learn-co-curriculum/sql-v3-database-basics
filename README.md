@@ -2,9 +2,9 @@
 
 ## Learning Goals
 
-- Explain database management system concepts.
-- Define relational database structure.
-- Identify common SQL statements.
+- Introduce database management system concepts.
+- Introduce relational database structure.
+- Introduce common SQL statements.
 
 ## Introduction
 
